@@ -1,0 +1,14 @@
+d:\patterns\patterns\bin\Debug\net8.0\patterns.exe
+d:\patterns\patterns\bin\Debug\net8.0\patterns.deps.json
+d:\patterns\patterns\bin\Debug\net8.0\patterns.runtimeconfig.json
+d:\patterns\patterns\bin\Debug\net8.0\patterns.dll
+d:\patterns\patterns\bin\Debug\net8.0\patterns.pdb
+d:\patterns\patterns\obj\Debug\net8.0\patterns.GeneratedMSBuildEditorConfig.editorconfig
+d:\patterns\patterns\obj\Debug\net8.0\patterns.AssemblyInfoInputs.cache
+d:\patterns\patterns\obj\Debug\net8.0\patterns.AssemblyInfo.cs
+d:\patterns\patterns\obj\Debug\net8.0\patterns.csproj.CoreCompileInputs.cache
+d:\patterns\patterns\obj\Debug\net8.0\patterns.dll
+d:\patterns\patterns\obj\Debug\net8.0\refint\patterns.dll
+d:\patterns\patterns\obj\Debug\net8.0\patterns.pdb
+d:\patterns\patterns\obj\Debug\net8.0\patterns.genruntimeconfig.cache
+d:\patterns\patterns\obj\Debug\net8.0\ref\patterns.dll
